@@ -1,0 +1,81 @@
+# ---------------------------------------------------------------------------
+# Multimodal Product Matching & Retrieval — central configuration.
+#
+# All relative paths are resolved against the project root (the parent of
+# this `configs/` directory), never against the current working directory.
+# Override the config file location with the MPM_CONFIG environment variable
+# and the compute device with MPM_DEVICE.
+# ---------------------------------------------------------------------------
+
+seed: 42
+device: auto            # auto | cpu | cuda | mps
+
+model:
+  image_model: openai/clip-vit-base-patch32
+  text_model: sentence-transformers/all-MiniLM-L6-v2
+  projection_dim: 256
+  # How projection heads are initialised when no trained weights are given.
+  # "orthogonal" = seeded semi-orthogonal matrix, which approximately preserves
+  # cosine similarity, so the baseline works without any training.
+  projection_init: orthogonal
+  # Optional path to trained projection heads (e.g. produced by
+  # src/training/train_metric_learning.py). null = use projection_init.
+  projection_weights: null
+  image_batch_size: 32
+  text_batch_size: 64
+
+fusion:
+  method: weighted_sum  # weighted_sum | concat
+  image_weight: 0.6
+  text_weight: 0.4
+
+retrieval:
+  index_type: inner_product   # IndexFlatIP; cosine similarity on L2-normalised vectors
+  top_k: 10
+  # Multimodal search retrieves top_k * candidate_multiplier candidates from
+  # the fused index and re-ranks them by the explicit combined score.
+  candidate_multiplier: 5
+
+matching:
+  threshold: 0.75
+  # Optional per-mode thresholds; a null value falls back to `threshold`.
+  # These values were selected on the TRAIN label groups of the bundled sample
+  # catalog by `scripts/evaluate.py` (see artifacts/results/ablation.csv).
+  # Re-tune them (or set to null) when you switch to your own dataset.
+  mode_thresholds:
+    image: 0.90
+    text: 0.70
+    multimodal: 0.85
+
+data:
+  products_csv: data/sample_products.csv
+  image_root: data          # base directory for relative image_path values
+  clean_titles: true
+
+split:
+  strategy: group_shuffle   # group_shuffle | group_kfold | random
+  test_size: 0.3
+  n_splits: 5               # used by group_kfold
+  fold: 0                   # which fold is the test fold for group_kfold
+
+evaluation:
+  k_values: [1, 5, 10]
+  candidate_k: 50           # neighbours per query used to form candidate pairs
+  thresholds: [0.50, 0.55, 0.60, 0.65, 0.70, 0.75, 0.80, 0.85, 0.90, 0.95]
+
+training:
+  loss: triplet             # triplet | contrastive
+  margin: 0.2
+  epochs: 40
+  learning_rate: 0.001
+  weight_decay: 0.0001
+  groups_per_batch: 16      # P in P×K batch sampling
+  samples_per_group: 2      # K in P×K batch sampling
+  output_weights: artifacts/models/projection_heads_finetuned.pt
+
+paths:
+  embeddings_dir: artifacts/embeddings
+  indexes_dir: artifacts/indexes
+  plots_dir: artifacts/plots
+  results_dir: artifacts/results
+  models_dir: artifacts/models

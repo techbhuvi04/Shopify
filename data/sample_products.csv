@@ -1,0 +1,145 @@
+product_id,title,image_path,category,label_group
+P0001,Nordwave Cotton Tee Red Size M,sample_images/P0001.jpg,Fashion,tshirt_red
+P0002,New Nordwave NO-TS106 T Shirt - Red,sample_images/P0002.jpg,Fashion,tshirt_red
+P0003,[PROMO] T Shirt Nordwave Blue NO-TS113 free shipping,sample_images/P0003.jpg,Fashion,tshirt_blue
+P0004,nordwave blue t shirt Size M - original,sample_images/P0004.jpg,Fashion,tshirt_blue
+P0005,NORDWAVE T SHIRT GREEN Size M ready stock,sample_images/P0005.jpg,Fashion,tshirt_green
+P0006,NORDWAVE COTTON T-SHIRT GREEN Size M ready stock,sample_images/P0006.jpg,Fashion,tshirt_green
+P0007,[PROMO] Cotton Tee Nordwave Green NO-TS120 free shipping,sample_images/P0007.jpg,Fashion,tshirt_green
+P0008,urbankraft black t shirt Size M - original,sample_images/P0008.jpg,Fashion,tshirt_black
+P0009,Black Cotton T-Shirt by UrbanKraft (UR-TS127),sample_images/P0009.jpg,Fashion,tshirt_black
+P0010,[PROMO] T Shirt UrbanKraft Black UR-TS127 free shipping,sample_images/P0010.jpg,Fashion,tshirt_black
+P0011,Black Cotton Tee by UrbanKraft (UR-TS127),sample_images/P0011.jpg,Fashion,tshirt_black
+P0012,urbankraft yellow t shirt Size M - original,sample_images/P0012.jpg,Fashion,tshirt_yellow
+P0013,Yellow T Shirt by UrbanKraft (UR-TS134),sample_images/P0013.jpg,Fashion,tshirt_yellow
+P0014,Yellow Cotton Tee by UrbanKraft (UR-TS134),sample_images/P0014.jpg,Fashion,tshirt_yellow
+P0015,New Casa Bella CA-MU103 Ceramic Coffee Mug - Red,sample_images/P0015.jpg,Home & Kitchen,mug_red
+P0016,[PROMO] Mug Casa Bella Red CA-MU103 free shipping,sample_images/P0016.jpg,Home & Kitchen,mug_red
+P0017,New Casa Bella CA-MU110 Ceramic Coffee Mug - Blue,sample_images/P0017.jpg,Home & Kitchen,mug_blue
+P0018,casa bella blue ceramic coffee mug 350ml - original,sample_images/P0018.jpg,Home & Kitchen,mug_blue
+P0019,casa bella blue mug 350ml - original,sample_images/P0019.jpg,Home & Kitchen,mug_blue
+P0020,New Casa Bella CA-MU117 Mug - Green,sample_images/P0020.jpg,Home & Kitchen,mug_green
+P0021,[PROMO] Coffee Cup Casa Bella Green CA-MU117 free shipping,sample_images/P0021.jpg,Home & Kitchen,mug_green
+P0022,[PROMO] Ceramic Coffee Mug BrewCo Black BR-MU124 free shipping,sample_images/P0022.jpg,Home & Kitchen,mug_black
+P0023,brewco black ceramic coffee mug 350ml - original,sample_images/P0023.jpg,Home & Kitchen,mug_black
+P0024,BrewCo Mug Black 350ml,sample_images/P0024.jpg,Home & Kitchen,mug_black
+P0025,brewco yellow coffee cup 350ml - original,sample_images/P0025.jpg,Home & Kitchen,mug_yellow
+P0026,New BrewCo BR-MU131 Ceramic Coffee Mug - Yellow,sample_images/P0026.jpg,Home & Kitchen,mug_yellow
+P0027,brewco yellow mug 350ml - original,sample_images/P0027.jpg,Home & Kitchen,mug_yellow
+P0028,[PROMO] Mug BrewCo Yellow BR-MU131 free shipping,sample_images/P0028.jpg,Home & Kitchen,mug_yellow
+P0029,Red Insulated Bottle by HydroPeak (HY-BO106),sample_images/P0029.jpg,Sports,bottle_red
+P0030,Red Water Flask by HydroPeak (HY-BO106),sample_images/P0030.jpg,Sports,bottle_red
+P0031,HYDROPEAK WATER FLASK BLUE 750ml ready stock,sample_images/P0031.jpg,Sports,bottle_blue
+P0032,HydroPeak Stainless Steel Water Bottle Blue 750ml,sample_images/P0032.jpg,Sports,bottle_blue
+P0033,New HydroPeak HY-BO120 Water Flask - Green,sample_images/P0033.jpg,Sports,bottle_green
+P0034,New HydroPeak HY-BO120 Water Flask - Green,sample_images/P0034.jpg,Sports,bottle_green
+P0035,Black Stainless Steel Water Bottle by AquaTrail (AQ-BO127),sample_images/P0035.jpg,Sports,bottle_black
+P0036,aquatrail black water flask 750ml - original,sample_images/P0036.jpg,Sports,bottle_black
+P0037,AquaTrail Insulated Bottle Black 750ml,sample_images/P0037.jpg,Sports,bottle_black
+P0038,AquaTrail Water Flask Black 750ml,sample_images/P0038.jpg,Sports,bottle_black
+P0039,AquaTrail Stainless Steel Water Bottle Yellow 750ml,sample_images/P0039.jpg,Sports,bottle_yellow
+P0040,Yellow Insulated Bottle by AquaTrail (AQ-BO134),sample_images/P0040.jpg,Sports,bottle_yellow
+P0041,AQUATRAIL WATER FLASK YELLOW 750ml ready stock,sample_images/P0041.jpg,Sports,bottle_yellow
+P0042,AquaTrail Stainless Steel Water Bottle Yellow 750ml,sample_images/P0042.jpg,Sports,bottle_yellow
+P0043,Red Trainers by Stridex (ST-SN107),sample_images/P0043.jpg,Fashion,sneaker_red
+P0044,STRIDEX RUNNING SNEAKERS RED EU 42 ready stock,sample_images/P0044.jpg,Fashion,sneaker_red
+P0045,STRIDEX SPORT SHOES RED EU 42 ready stock,sample_images/P0045.jpg,Fashion,sneaker_red
+P0046,Red Running Sneakers by Stridex (ST-SN107),sample_images/P0046.jpg,Fashion,sneaker_red
+P0047,Blue Running Sneakers by Stridex (ST-SN114),sample_images/P0047.jpg,Fashion,sneaker_blue
+P0048,New Stridex ST-SN114 Trainers - Blue,sample_images/P0048.jpg,Fashion,sneaker_blue
+P0049,Green Running Sneakers by Stridex (ST-SN121),sample_images/P0049.jpg,Fashion,sneaker_green
+P0050,Green Trainers by Stridex (ST-SN121),sample_images/P0050.jpg,Fashion,sneaker_green
+P0051,Green Trainers by Stridex (ST-SN121),sample_images/P0051.jpg,Fashion,sneaker_green
+P0052,STRIDEX SPORT SHOES GREEN EU 42 ready stock,sample_images/P0052.jpg,Fashion,sneaker_green
+P0053,kickline black running sneakers EU 42 - original,sample_images/P0053.jpg,Fashion,sneaker_black
+P0054,New Kickline KI-SN128 Sport Shoes - Black,sample_images/P0054.jpg,Fashion,sneaker_black
+P0055,Yellow Sport Shoes by Kickline (KI-SN135),sample_images/P0055.jpg,Fashion,sneaker_yellow
+P0056,New Kickline KI-SN135 Sport Shoes - Yellow,sample_images/P0056.jpg,Fashion,sneaker_yellow
+P0057,New Novatel NO-PH105 Mobile Phone - Red,sample_images/P0057.jpg,Electronics,phone_red
+P0058,NOVATEL SMARTPHONE RED 128GB ready stock,sample_images/P0058.jpg,Electronics,phone_red
+P0059,[PROMO] Android Phone Novatel Blue NO-PH112 free shipping,sample_images/P0059.jpg,Electronics,phone_blue
+P0060,Novatel Android Phone Blue 128GB,sample_images/P0060.jpg,Electronics,phone_blue
+P0061,New Novatel NO-PH112 Mobile Phone - Blue,sample_images/P0061.jpg,Electronics,phone_blue
+P0062,Novatel Mobile Phone Blue 128GB,sample_images/P0062.jpg,Electronics,phone_blue
+P0063,Green Mobile Phone by Novatel (NO-PH119),sample_images/P0063.jpg,Electronics,phone_green
+P0064,novatel green android phone 128GB - original,sample_images/P0064.jpg,Electronics,phone_green
+P0065,[PROMO] Android Phone Novatel Green NO-PH119 free shipping,sample_images/P0065.jpg,Electronics,phone_green
+P0066,New Pixelon PI-PH126 Android Phone - Black,sample_images/P0066.jpg,Electronics,phone_black
+P0067,PIXELON SMARTPHONE BLACK 128GB ready stock,sample_images/P0067.jpg,Electronics,phone_black
+P0068,Pixelon Smartphone Black 128GB,sample_images/P0068.jpg,Electronics,phone_black
+P0069,New Pixelon PI-PH126 Mobile Phone - Black,sample_images/P0069.jpg,Electronics,phone_black
+P0070,pixelon yellow android phone 128GB - original,sample_images/P0070.jpg,Electronics,phone_yellow
+P0071,Pixelon Mobile Phone Yellow 128GB,sample_images/P0071.jpg,Electronics,phone_yellow
+P0072,Pixelon Mobile Phone Yellow 128GB,sample_images/P0072.jpg,Electronics,phone_yellow
+P0073,PIXELON ANDROID PHONE YELLOW 128GB ready stock,sample_images/P0073.jpg,Electronics,phone_yellow
+P0074,sonicarc red over-ear headphones 40h Battery - original,sample_images/P0074.jpg,Electronics,headphones_red
+P0075,sonicarc red over-ear headphones 40h Battery - original,sample_images/P0075.jpg,Electronics,headphones_red
+P0076,Blue Bluetooth Headset by SonicArc (SO-HE117),sample_images/P0076.jpg,Electronics,headphones_blue
+P0077,sonicarc blue over-ear headphones 40h Battery - original,sample_images/P0077.jpg,Electronics,headphones_blue
+P0078,SonicArc Bluetooth Headset Blue 40h Battery,sample_images/P0078.jpg,Electronics,headphones_blue
+P0079,SONICARC BLUETOOTH HEADSET BLUE 40h Battery ready stock,sample_images/P0079.jpg,Electronics,headphones_blue
+P0080,SonicArc Wireless Headphones Green 40h Battery,sample_images/P0080.jpg,Electronics,headphones_green
+P0081,Green Wireless Headphones by SonicArc (SO-HE124),sample_images/P0081.jpg,Electronics,headphones_green
+P0082,sonicarc green bluetooth headset 40h Battery - original,sample_images/P0082.jpg,Electronics,headphones_green
+P0083,[PROMO] Wireless Headphones Beatwave Black BE-HE131 free shipping,sample_images/P0083.jpg,Electronics,headphones_black
+P0084,New Beatwave BE-HE131 Wireless Headphones - Black,sample_images/P0084.jpg,Electronics,headphones_black
+P0085,Beatwave Wireless Headphones Black 40h Battery,sample_images/P0085.jpg,Electronics,headphones_black
+P0086,beatwave black wireless headphones 40h Battery - original,sample_images/P0086.jpg,Electronics,headphones_black
+P0087,Yellow Wireless Headphones by Beatwave (BE-HE138),sample_images/P0087.jpg,Electronics,headphones_yellow
+P0088,beatwave yellow wireless headphones 40h Battery - original,sample_images/P0088.jpg,Electronics,headphones_yellow
+P0089,New Beatwave BE-HE138 Bluetooth Headset - Yellow,sample_images/P0089.jpg,Electronics,headphones_yellow
+P0090,TrekPro Laptop Backpack Red 25L,sample_images/P0090.jpg,Bags,backpack_red
+P0091,Red Travel Rucksack by TrekPro (TR-BA108),sample_images/P0091.jpg,Bags,backpack_red
+P0092,TrekPro Laptop Backpack Red 25L,sample_images/P0092.jpg,Bags,backpack_red
+P0093,Red School Bag by TrekPro (TR-BA108),sample_images/P0093.jpg,Bags,backpack_red
+P0094,TrekPro School Bag Blue 25L,sample_images/P0094.jpg,Bags,backpack_blue
+P0095,New TrekPro TR-BA115 School Bag - Blue,sample_images/P0095.jpg,Bags,backpack_blue
+P0096,Green Travel Rucksack by TrekPro (TR-BA122),sample_images/P0096.jpg,Bags,backpack_green
+P0097,TrekPro Travel Rucksack Green 25L,sample_images/P0097.jpg,Bags,backpack_green
+P0098,[PROMO] Travel Rucksack TrekPro Green TR-BA122 free shipping,sample_images/P0098.jpg,Bags,backpack_green
+P0099,TREKPRO LAPTOP BACKPACK GREEN 25L ready stock,sample_images/P0099.jpg,Bags,backpack_green
+P0100,Black Travel Rucksack by Campus Gear (CA-BA129),sample_images/P0100.jpg,Bags,backpack_black
+P0101,Campus Gear School Bag Black 25L,sample_images/P0101.jpg,Bags,backpack_black
+P0102,campus gear yellow school bag 25L - original,sample_images/P0102.jpg,Bags,backpack_yellow
+P0103,Yellow Travel Rucksack by Campus Gear (CA-BA136),sample_images/P0103.jpg,Bags,backpack_yellow
+P0104,Chronex Quartz Watch Red 40mm,sample_images/P0104.jpg,Accessories,watch_red
+P0105,Chronex Analog Wrist Watch Red 40mm,sample_images/P0105.jpg,Accessories,watch_red
+P0106,New Chronex CH-WA105 Analog Wrist Watch - Red,sample_images/P0106.jpg,Accessories,watch_red
+P0107,[PROMO] Analog Wrist Watch Chronex Blue CH-WA112 free shipping,sample_images/P0107.jpg,Accessories,watch_blue
+P0108,Chronex Analog Wrist Watch Blue 40mm,sample_images/P0108.jpg,Accessories,watch_blue
+P0109,[PROMO] Analog Wrist Watch Chronex Green CH-WA119 free shipping,sample_images/P0109.jpg,Accessories,watch_green
+P0110,CHRONEX ANALOG WRIST WATCH GREEN 40mm ready stock,sample_images/P0110.jpg,Accessories,watch_green
+P0111,[PROMO] Quartz Watch Timely Black TI-WA126 free shipping,sample_images/P0111.jpg,Accessories,watch_black
+P0112,timely black wristwatch 40mm - original,sample_images/P0112.jpg,Accessories,watch_black
+P0113,Timely Quartz Watch Black 40mm,sample_images/P0113.jpg,Accessories,watch_black
+P0114,[PROMO] Wristwatch Timely Yellow TI-WA133 free shipping,sample_images/P0114.jpg,Accessories,watch_yellow
+P0115,[PROMO] Quartz Watch Timely Yellow TI-WA133 free shipping,sample_images/P0115.jpg,Accessories,watch_yellow
+P0116,Timely Analog Wrist Watch Yellow 40mm,sample_images/P0116.jpg,Accessories,watch_yellow
+P0117,timely yellow analog wrist watch 40mm - original,sample_images/P0117.jpg,Accessories,watch_yellow
+P0118,Lumina Reading Lamp Red Dimmable,sample_images/P0118.jpg,Home & Kitchen,lamp_red
+P0119,[PROMO] Table Lamp Lumina Red LU-LA104 free shipping,sample_images/P0119.jpg,Home & Kitchen,lamp_red
+P0120,New Lumina LU-LA111 Reading Lamp - Blue,sample_images/P0120.jpg,Home & Kitchen,lamp_blue
+P0121,Blue Reading Lamp by Lumina (LU-LA111),sample_images/P0121.jpg,Home & Kitchen,lamp_blue
+P0122,[PROMO] Reading Lamp Lumina Green LU-LA118 free shipping,sample_images/P0122.jpg,Home & Kitchen,lamp_green
+P0123,[PROMO] LED Desk Lamp Lumina Green LU-LA118 free shipping,sample_images/P0123.jpg,Home & Kitchen,lamp_green
+P0124,Black LED Desk Lamp by BrightNest (BR-LA125),sample_images/P0124.jpg,Home & Kitchen,lamp_black
+P0125,BrightNest Table Lamp Black Dimmable,sample_images/P0125.jpg,Home & Kitchen,lamp_black
+P0126,[PROMO] LED Desk Lamp BrightNest Black BR-LA125 free shipping,sample_images/P0126.jpg,Home & Kitchen,lamp_black
+P0127,BRIGHTNEST LED DESK LAMP YELLOW Dimmable ready stock,sample_images/P0127.jpg,Home & Kitchen,lamp_yellow
+P0128,brightnest yellow reading lamp Dimmable - original,sample_images/P0128.jpg,Home & Kitchen,lamp_yellow
+P0129,Nordwave Baseball Cap Red Adjustable,sample_images/P0129.jpg,Fashion,cap_red
+P0130,Red Baseball Cap by Nordwave (NO-CA103),sample_images/P0130.jpg,Fashion,cap_red
+P0131,nordwave blue baseball cap Adjustable - original,sample_images/P0131.jpg,Fashion,cap_blue
+P0132,New Nordwave NO-CA110 Sports Cap - Blue,sample_images/P0132.jpg,Fashion,cap_blue
+P0133,Blue Snapback Hat by Nordwave (NO-CA110),sample_images/P0133.jpg,Fashion,cap_blue
+P0134,NORDWAVE BASEBALL CAP GREEN Adjustable ready stock,sample_images/P0134.jpg,Fashion,cap_green
+P0135,New Nordwave NO-CA117 Sports Cap - Green,sample_images/P0135.jpg,Fashion,cap_green
+P0136,[PROMO] Snapback Hat Nordwave Green NO-CA117 free shipping,sample_images/P0136.jpg,Fashion,cap_green
+P0137,[PROMO] Baseball Cap Kickline Black KI-CA124 free shipping,sample_images/P0137.jpg,Fashion,cap_black
+P0138,[PROMO] Sports Cap Kickline Black KI-CA124 free shipping,sample_images/P0138.jpg,Fashion,cap_black
+P0139,KICKLINE SNAPBACK HAT BLACK Adjustable ready stock,sample_images/P0139.jpg,Fashion,cap_black
+P0140,New Kickline KI-CA124 Sports Cap - Black,sample_images/P0140.jpg,Fashion,cap_black
+P0141,[PROMO] Snapback Hat Kickline Yellow KI-CA131 free shipping,sample_images/P0141.jpg,Fashion,cap_yellow
+P0142,[PROMO] Sports Cap Kickline Yellow KI-CA131 free shipping,sample_images/P0142.jpg,Fashion,cap_yellow
+P0143,kickline yellow baseball cap Adjustable - original,sample_images/P0143.jpg,Fashion,cap_yellow
+P0144,[PROMO] Snapback Hat Kickline Yellow KI-CA131 free shipping,sample_images/P0144.jpg,Fashion,cap_yellow
